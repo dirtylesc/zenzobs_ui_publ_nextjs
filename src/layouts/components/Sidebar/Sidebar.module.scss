@@ -1,0 +1,39 @@
+.wrapper {
+  width: 260px;
+  z-index: 10;
+  background: #313a46;
+  bottom: 0;
+  position: fixed;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  top: 0;
+  padding-top: 70px;
+  -webkit-box-shadow: 0 0 35px 0 rgba(154, 161, 171, 0.15);
+  box-shadow: 0 0 35px 0 rgba(154, 161, 171, 0.15);
+}
+
+.menu_list_item{
+  color: #8391a2;
+  display: block;
+  padding: 15px 30px;
+  font-size: 0.9375rem;
+  position: relative;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+
+  .menu_list_item__title{
+    margin-left: 12px;
+  }
+}
+
+.menu_list_item__show {
+  ~ .menu_list_item__children {
+    max-height: 300px;
+  }
+}
+
+.menu_list_item__children{
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.3s ease-out;
+}

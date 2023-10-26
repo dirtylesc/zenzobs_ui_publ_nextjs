@@ -1,0 +1,960 @@
+{
+	"---WELCOME-------------------------"           : "----------------------------------------",
+	"Welcome"										: {
+		"location_and_select_title"                 : "Điểm đến và ngôn ngữ",
+		"location_select"                           : "Where",
+		"location_hanoi"                            : "Hà Nội",
+		"location_danang"                           : "Đà Nẵng",
+		"location_saigon"                           : "Sài Gòn",
+		"language_select"                           : "You",
+		"join"                                      : "Đăng nhập/Đăng ký",
+		"join_02"                                   : "Đăng tin tuyển dụng",
+		"signup_more_info"                          : "Hiển thị thêm",
+		"signup_hide_info"                          : "Ẩn",
+		"button_go"                                 : "Go"
+	},
+
+	"---LANG-------------------------"           	: "----------------------------------------",
+	"Lang"											: {
+		"vietnamese"                       : "Tiếng Việt",
+		"english"                          : "Tiếng Anh",
+		"french"                           : "Tiếng Pháp",
+		"japan"                            : "Tiếng Nhật",
+		"korean"                           : "Tiếng Hàn",
+		"chine"                            : "Tiếng Trung"
+	},
+	
+  
+	"---START-------------------------"             : "----------------------------------------",
+	"Start"											: {
+		"company_name"                              : "CTCP H&V",
+		"company_name_alias"                        : "HungViet-Solution",
+		"company_director"                          : "Bà Nguyễn Thị Huệ",
+		"phone_number"                              : "(+84) 236 353 0071",
+		"hotline_number"                            : "(+84) 984 49 69 09 - (+84) 906 56 01 25",
+		"email_address"                             : "contact@1001cv.com",
+		"local_address"                             : "66 avenue des Champs Elysées, 75008 Paris, France",
+		"local_address_short"                       : "66 avenue des Champs Elysées, 75008 Paris, France",
+		"local_address_branch"                      : "198 Lý Tự Trọng, Q.Hải Châu, TP.Đà Nẵng",
+		"company_id_label"                          : "Mã số ĐKKD",
+		"company_id_value"                          : "0314881165",
+		"company_id_date"                           : "06/02/2018",
+		"company_id_place"                          : "Sở Kế hoạch và Đầu tư TPHCM",
+		"facebook_address"                          : "https://www.facebook.com/1001congviec"
+	},
+  
+	"----------INPUT TOOL----------"                : "----------INPUT TOOL----------",
+	"InputTool"										: {
+		"validator_err_required"                    : "Thông tin bắt buộc",
+		"validator_err_length_lt"                   : "Độ dài phải nhỏ hơn %s ký tự",
+		"validator_err_length_le"                   : "Độ dài phải nhỏ hơn hoặc bằng %s ký tự",
+		"validator_err_length_gt"                   : "Độ dài phải lớn hơn %s ký tự",
+		"validator_err_length_ge"                   : "Độ dài phải lớn hơn hoặc bằng %s ký tự",
+		"validator_err_length_eq"                   : "Độ dài phải bằng %s ký tự",
+		"validator_err_except"                      : "Nội dung không được chứa %s",
+		"validator_err_numeric"                     : "Nội dung phải là kiểu số nguyên",
+		"validator_err_alphanumeric"                : "Nội dung phải là kiểu chữ hoặc số nguyên",
+		"validator_err_email"                       : "Nội dung phải là email",
+		"validator_err_double"                      : "Nội dung phải là kiểu số thập phân",
+		"validator_err_alphabetic"                  : "Nội dung phải là kiểu chữ",
+		"validator_err_alphabetic_utf8"             : "Nội dung phải là kiểu chữ",
+		"validator_err_alphanumeric_utf8"           : "Nội dung phải là kiểu chữ hoặc số nguyên",
+		"validator_err_date"                        : "Nội dung phải là kiểu ngày tháng"
+	},
+  
+	"---COMMON-------------------------"            : "----------------------------------------",
+	"Common"										: {
+		"datetime_monday"                           : "Thứ hai",
+		"datetime_tuesday"                          : "Thứ ba",
+		"datetime_wednesday"                        : "Thứ tư",
+		"datetime_thursday"                         : "Thứ năm",
+		"datetime_friday"                           : "Thứ sáu",
+		"datetime_saturday"                         : "Thứ bảy",
+		"datetime_sunday"                           : "Chủ nhật",
+		"datetime_today"                            : "Hôm nay",
+		"datetime_day"                              : "Ngày",
+	  
+		"btn_send"                                  : "Gửi",
+		"btn_login"                                 : "Đăng nhập",
+		"btn_register"                              : "Đăng ký",
+		"btn_apply"                                 : "Áp dụng",
+		"btn_ok"                                    : "OK",
+		"btn_yes"                                   : "Đồng ý",
+		"btn_yes_1"                                 : "Có",
+		"btn_no"                                    : "Không",
+		"btn_cancel"                                : "Hủy bỏ",
+		"btn_save"                                  : "Lưu",
+		"btn_reset"                                 : "Đặt lại",
+		"btn_add"                                   : "Thêm",
+		"btn_new"                                   : "Tạo mới",
+		"btn_edit"                                  : "Chỉnh sửa",
+		"btn_modify"                                : "Chỉnh sửa",
+		"btn_delete"                                : "Xóa",
+		"btn_remove"                                : "Xóa",
+		"btn_duplicate"                             : "Sao chép",
+		"btn_close"                                 : "Đóng cửa sổ",
+		"btn_upload"                                : "Tải tệp tin ",
+		"btn_transform"                             : "Chuyển đổi",
+		"btn_export"                                : "Xuất tập tin pdf",
+		"btn_print"                                 : "In ấn",
+		"btn_reply"                                 : "Trả lời",
+		"btn_forward"                               : "Chuyển tiếp",
+		"btn_preview"                               : "Xem kết quả",
+		"btn_save_dup"                              : "Lưu và sao chép",
+		"btn_transl"                                : "Dịch thuật",
+	  
+		"btn_validate"                              : "Xác nhận",
+		"btn_deny"                                  : "Từ chối xác nhận",
+	  
+		"btn_back"                                  : "Quay lại",
+		"btn_previous"                              : "Trước",
+		"btn_next"                                  : "Sau",
+		"btn_finish"                                : "Kết thúc",
+	  
+	  
+		"btn_save_exit"                             : "Lưu và thoát",
+		"btn_save_continue"                         : "Lưu và tiếp tục",
+	  
+		"btn_download"                              : "Tải về",
+	  
+		"data_not_found"                            : "Bạn sẽ được nhận tin sớm thôi!",
+		"data"                                      : "Có",
+		"promotion"                                 : "Khuyến mãi",
+		"no_promotion"                              : "Hết khuyến mãi",
+		"loading_data"                              : "Đang tải dữ liệu...",
+	  
+		"img_data_not_found"                        : "Chưa có hình ảnh",
+	  
+		"please_select"                             : "Vui lòng chọn",
+	  
+		"add_entity_autocomplete"                   : "Tạo dữ liệu mới",
+		"empty_entity_autocomplete"                 : "Không có dữ liệu",
+		"placeholder_autocomplete"                  : "Nhấp để tìm kiếm",
+	  
+		"file_up_ok_msg"                            : "Các tập tin đã được tải lên thành công",
+		"file_del_ok_msg"                           : "Các tập tin đã được xóa thành công",
+	  
+		"add_to_cart_succes"                        : "Sản phẩm đã được thêm vào giỏ hàng!",
+	  
+		"err_ajax"                                  : "Có lỗi xảy ra, bạn vui lòng thử lại thao tác!",
+		"error_msg"                                 : "Bạn vui lòng kiểm tra lại những lỗi dữ liệu!",
+	  
+		"sel_null"                                  : "Vui lòng chọn",
+	  
+		"err_entity_save"                           : "Có lỗi dữ liệu, vui lòng kiểm tra lại!",
+		"err_entity_document_save"                  : "Hồ sơ của bạn chưa sẵn sàng gửi đi, vui lòng chọn file và bấm Tải lên !",
+		"inf_entity_upd"                            : "Đã cập nhật mới sản phẩm",
+		"inf_entity_del"                            : "Đã xóa sản phẩm",
+		"err_product_info"                          : "Sản phẩm hiện thời chưa đủ thông tin",
+		"msg_del_file_content"                      : "Bạn có muốn lưu chỉnh sửa không?",
+	  
+		"err_creat_cv"                              : "Bạn chưa tạo Curriculum Vitae trên hệ thống, Vui lòng tạo CV!!!",
+	  
+		"btn_message"                               : "Thông báo",
+	  
+		"city_dad"                                  : "Đà Nẵng",
+		"city_hcm"                                  : "Hồ Chí Minh",
+		"city_han"                                  : "Hà Nội",
+	  
+		"country_vn"                                : "Việt Nam",
+		"country_fr"                                : "Pháp",
+		"country_en"                                : "Anh",
+		"country_ch"                                : "Trung Quốc",
+		"country_us"                                : "Mỹ",
+		"country_jp"                                : "Nhật Bản",
+	  
+		"usr_new_confimation"                       : "Xác nhận tạo tài khoản mới",
+		"usr_pw_reset"                              : "Xác nhận tạo lại mật khẩu",
+	  
+		"click_here"                                : "Nhấn vào đây",
+		"click_open_map"                            : "Mở/Đóng bản đồ",
+	  
+		"lab_Mr"                                    : "Ông",
+		"lab_Mrs"                                   : "Bà"
+	},
+  
+	"----------MSGBOX----------"                    : "----------MSGBOX----------",
+	"MsgBox"										: {
+		"confirm_title"                             : "Xác nhận",
+		"confirm_common_msg"                        : "Bạn muốn lưu hay tiếp tục chỉnh sửa?",
+		"alert_title"                               : "Cảnh báo",
+		"success_title"                             : "Thành công",
+		"error_title"                               : "Lỗi",
+		"success_create_title"                      : "Tạo mới thành công!",
+		"error_create_title"                        : "Có lỗi xảy ra, vui lòng thử lại!",
+	  
+		"common_msg_confirm_upload_file_in_msgbox"  : "Tệp tin của bạn chưa được tải lên, bạn có muốn tải tệp tin lên trước khi thoát?",
+	  
+		"msg_message_compose_discard"               : "Hủy bỏ"
+	},
+  
+	"----------CAMERA----------"                    : "----------CAMERA----------",
+	"Camera"										: {
+		"take_snapshot"                             : "Chụp ảnh",
+		"record_snapshot"                           : "Quay phim",
+		"discard_snapshot"                          : "Xóa hình",
+		"upload"                                    : "Tải lên"
+	},
+  
+	"----------FILE URL----------"                  : "----------FILE URL----------",
+	"FileUrl"										: {
+		"title"                                     : "Đường dẫn",
+		"upload"                                    : "Tải lên",
+		"link_not_supported"                        : "Định dạng đường dẫn không được hỗ trợ, vui lòng thử lại!",
+		"format_not_supported"                      : "Định dạng tập tin không được hỗ trợ, vui lòng thử lại!"
+	},
+	
+	"----------CHAT BOX----------"                  : "----------FILE URL----------",
+	"ChatBox"										: {
+		"title"                                     : "Liên hệ tư vấn",
+		"sender_name"                               : "Họ và tên",
+		"server_reply"                              : "Rất cám ơn bạn đã liên hệ với Wygo. Chúng tôi đã nhận được yêu cầu của bạn và sẽ phản hồi trong thời gian sớm nhất."
+	},
+  
+	"Auth"											: {
+		"---SIGNIN-------------------------"        : "----------------------------------------",
+		"SignIn"									: {
+			"tab_title"                             : "Chào mừng trở lại !",
+			"tab_slogan"                            : "Đăng nhập và làm việc tại ZenZobs.",
+			"tab_login"                             : "Đăng nhập",
+			"username"                              : "Tên đăng nhập",
+			"password"                              : "Mật khẩu",
+			"password_confirm"                      : "Xác nhận mật khẩu",
+			"msg_notify_input_user_login"           : "Vui lòng nhập tên đăng nhập"
+		},
+
+		"---SIGNUP-------------------------"        : "----------------------------------------",
+		"SignUp"									: {
+			"signup"                                : "Bạn chưa có tài khoản?",
+			"tab_slogan"                            : "Đăng ký và sử dụng các chức năng hay ho của ZenZobs",
+			"tab_register"                          : "Đăng ký",
+			"username"                              : "Tên đăng nhập, chỉ sử dụng ký tự và số, vd zen2023",
+			"email"                                 : "Email, ví dụ contact@zenzobs.com",
+			"user_typ"                              : "Kiểu người dùng",
+			"typ_candidate"                         : "Ứng viên",
+			"typ_recruiter"                         : "Nhà tuyển dụng",
+			"password"                              : "Mật khẩu",
+			"password_confirm"                      : "Xác nhận mật khẩu",
+			"remember_me"                           : "Ghi nhớ tôi",
+			"lost_password"                         : "Quên mật khẩu",
+			"or"                                    : "hoặc",
+			"with"                                  : "Đăng nhập với",
+			"scmnd"                                 : "Số CMND/Căn cước công dân",
+			"mst"                                   : "Mã số thuế/Số chứng nhận ĐKKD",
+			"date"                                  : "Ngày cấp",
+			"place"                                 : "Nơi cấp",
+			"radio_personal"                        : "Cá nhân",
+			"radio_organization"                    : "Tổ chức",
+			"partner_name"                          : "Tên tổ chức",
+			"partner_addr"                          : "Địa chỉ liên hệ",
+			"partner_phone"                         : "Số điện thoại",
+			"label_username"                        : "Tên đăng nhập",
+			"label_email"                           : "Địa chỉ Email",
+			"label_typ"                             : "Kiểu người dùng",
+			"label_password"                        : "Mật khẩu",
+			"label_conf_password"                   : "Nhập lại mật khẩu",
+			"aldready_member"						: "Bạn đã có tài khoản?"
+		},
+
+		"---FORGOT-PASSWOD----------"				: "-------------------------",
+		"ForgotPassword"							: {
+			"send_succes"                           : "Đã gửi thông tin để khởi tạo mật mã đến email của bạn, vui lòng kiểm tra email",
+			"send_not_succes"                       : "Có lỗi xảy ra, có thể tên đăng nhập của bạn không đúng hoặc tên đăng nhập này không được phép"
+		},
+
+		"---LOGIN-------------------" 				: "--------------------------",
+		"Login"										: {
+			"err_authentification"                  : "Mật khẩu sai hoặc tài khoản không tồn tại",
+			"option_choice"                         : "Hoặc"
+		}
+	},
+	
+  
+  
+	"---HEADER-------------------------"            : "----------------------------------------",
+	"Header"										: {
+		"menu_home"                                 : " ",
+		"logout_button"                             : "Đăng xuất",
+		"header_login_button"                       : "Đăng nhập",
+		"header_register_button"                    : "Đăng ký",
+		"search_ow_input"                           : "Tìm kiếm việc làm,công ty,...",
+		"search_city_input"                         : "Nơi làm việc",
+		"search_category_select"                    : "Tất cả ngành",
+		"wishlist"                                  : "Yêu thích",
+		"cart"                                      : "Giỏ hàng",
+		"login_button"                              : "Đăng nhập",
+		"register_button"                           : "Đăng ký",
+		
+		"Menu"										: {
+			"blog"                                 	: "Bài viết",
+			"candidate"                            	: "Người tìm việc",
+			"offer"                                	: "Việc tìm người",
+			"welcome"                              	: "Chào mừng đến với ZenZobs",
+			"create_offer"                          : "Đăng tin",
+			"dashboard"                            	: "Tài khoản"
+		},
+
+		"Home"										: {
+			"menu_area"                             : "Địa điểm",
+			
+			"menu_plan"                             : "Lịch trình",
+			"menu_plan_partner"                     : "Doanh nghiệp",
+			"menu_plan_private"                     : "Cộng đồng",
+			"menu_all"                              : "Tất cả",
+			"menu_latest"                           : "Mới nhất",
+			"menu_hot"                              : "Hay nhất",
+			"menu_order_step2"                      : "Thông tin khách hàng",
+			
+			"slogan_01"								: "Rất nhiều công việc thú vị đang chờ bạn",
+			"slogan_02"								: "Bạn sẽ tìm thấy điều mong muốn với",
+			"slogan_03"								: "Với tuổi trẻ, chúng ta không ngại ngần gió sương để tích lũy kinh nghiệm làm hành trang cho một tương lai vững chắc.",
+			"project_name"							: "ZenZobs"
+		}
+	},
+
+	"---OFFER-------------------------"             : "----------------------------------------",
+	"Offer"											: {
+
+		"---LIST-------------------------"          : "----------------------------------------",
+		"List"										: {
+			"title"                                 : "Ưu đãi",
+			"latest_title"                          : "Mới nhất",
+			"hot_title"                             : "Hấp dẫn nhất"
+		},
+		
+		"---ENT-------------------------"          	: "----------------------------------------",
+		"Ent" 										: {
+			"review"                                : "Đánh giá",
+			"share"                                 : "Chia sẻ",
+			"today"                                 : "Hôm nay",
+			"closed_now"                            : "Đóng cửa",
+			"overview"                              : "Giới thiệu",
+			"location"                              : "Địa điểm",
+			"reviews"                               : "Đánh giá",
+	  
+			"add_review"                            : "Thêm đánh giá",
+			"your_rating"                           : "Điểm đánh giá của bạn",
+			"upload_images"                         : "Tải hình ảnh",
+			"your_name"                             : "Tên của bạn",
+			"your_email_address"                    : "Email của bạn",
+			"your_phone"                            : "Số ĐT của bạn",
+			"your_comment"                          : "Ý kiến của bạn",
+	  
+			"submit_review"                         : "Đăng đánh giá",
+	  
+			"additional_details"                    : "Thông tin thêm"
+		}
+	},
+
+	"---MESSAGE_NOTIFICATION-----------------"      : "----------------------------------------",
+	"MsgNotification"								: {
+		"title"              	                    : "Thông báo",
+		"btn_see_all"        	                    : "Đánh dấu đã xem tất cả",
+		"unread_f"           	                    : "Bạn có",
+		"unread_s"           	                    : " thông báo chưa đọc",
+		"month_ago"          	                    : " tháng trước",
+		"day_ago"            	                    : " ngày trước",
+		"hour_ago"           	                    : " giờ trước",
+		"minute_ago"         	                    : " phút trước",
+		"second_ago"         	                    : " giây trước",
+		
+		"---OFFER-----------------"      			: "----------------------------------------",
+		"Offer"										: {
+			"can_apply"    	                    	: " đã ứng tuyển vào công việc: #tit",
+			"can_refuse"   	                    	: " đã từ chối đơn ứng tuyển về công việc: #tit",
+			"can_accept"   	                    	: " đã chấp nhận đơn ứng tuyển về công việc: #tit",
+		  
+			"order_apply"  	                    	: " đề nghị làm việc với bạn: #tit",
+			"order_submit" 	                    	: " xác nhận đề nghị làm việc của bạn: #tit",
+			"order_refuse" 	                    	: " từ chối đề nghị làm việc với bạn: #tit",
+		  
+			"rec_apply"    	                    	: " muốn bạn làm cho công việc: #tit",
+			"rec_refuse"   	                    	: " đã từ chối đề nghị cho công việc: #tit",
+			"rec_accept"   	                    	: " đã chấp nhận đề nghị cho công việc: #tit",
+			"rec_expired"  	                    	: "Công việc: #tit của bạn đã quá hạn.",
+		  
+			"rating"       	                    	: " đã đánh giá về offer của bạn.",
+			"comment"      	                    	: " đã trả lời một đánh giá về offer của bạn.",
+			"upvote"       	                    	: " đã tán thành về một offer của bạn.",
+			"dowmnvote"    	                    	: " đã phản đối về một offer của bạn."
+		},
+
+		"---POST-----------------"      			: "----------------------------------------",
+		"Post"										: {
+			"comment"       	                    : " đã bình luận trên bài viết của bạn.",
+			"sub_comment"   	                    : " đã trả lời một bình luận về offer của bạn.",
+		  
+			"upvote"        	                    : " đã tán thành về một bài viết của bạn.",
+			"downvote"      	                    : " đã phản đối về một bài viết của bạn."
+		}
+	},
+  
+	"---MESSAGE_NOTIFY_VALIDATE_REGISTER----"       : "----------------------------------------",
+	"MsgNotifyValidate"								: {
+		"Register"									: {
+			"login"                      			: "Vui lòng nhập tên đăng nhập",
+			"email"                      			: "Vui lòng nhập email",
+			"check_email"                			: "Email chưa hợp lệ, xin thử lại",
+			"pass"                       			: "Vui lòng nhập mật khẩu",
+			"check_pass_match"           			: "Mật khẩu chưa khớp !!!",
+			"change_old_pass"               		: "Vui lòng nhập mật khẩu cũ",
+			"change_pass"                   		: "Vui lòng nhập mật khẩu mới",
+			"change_confirm_pass"           		: "Vui lòng nhập xác nhận mật khẩu mới",
+			"check_change_pass_match"       		: "Mật khẩu chưa khớp, xin thử lại!"
+		},
+		
+		"add_list_favorite"                         : "Bạn có muốn thêm vào danh sách yêu thích không?",
+		"remove_list_favorite"                      : "Bạn có muốn xóa khỏi danh sách yêu thích không?",
+		"remove_list_reviews"                       : "Bạn có muốn xóa khỏi danh sách đánh giá không?",
+		"remove_review"                             : "Bạn có muốn xóa khỏi danh sách đánh giá không?",
+		"remove_plan"                               : "Bạn có chắc muốn xóa lịch trình này không?",
+		"remove_list_orders"                        : "Bạn có muốn hủy đặt chỗ này không?"
+	},
+  
+	"---ORDER-----------------"                     : "----------------------------------------",
+	"Order"											: {
+		"fullname"                                  : "Họ và tên",
+		"birth_date"                                : "Ngày sinh",
+		"email_address"                             : "Địa chỉ email",
+		"phone_number"                              : "Số điện thoại",
+		"datetime_begin"                            : "Thời gian bắt đầu",
+		"datetime_end"                              : "Thời gian kết thúc",
+		"datetime_setup"                            : "Thời gian đặt phòng",
+		"placedate_setup"                           : "Thời gian đặt chỗ",
+		"placehoder_name"                           : "Người đặt",
+		"placehoder_fullname"                       : "Tên người đặt*",
+		"placehoder_email"                          : "Địa chỉ email*",
+		"placehoder_phone"                          : "Số điện thoại*",
+		"placehoder_note"                           : "Để lại ghi chú (Nếu có)",
+		"placehoder_note_button"                    : "Không phù hợp",
+		"placehoder_nolist"                         : "Xin lỗi, hệ thống không tìm thấy lịch đặt có sẵn cho bạn trong khoảng thời gian này. Bạn có thể để lại lời nhắn cho hệ thống.",
+		"placehoder_success"                        : "Đặt chỗ thành công",
+		"placehoder_content"                        : "Nội dung",
+		"placehoder_confirm_01"                     : "Email xác nhận đã được gửi cho bạn. Số đặt chổ của bạn là: ",
+		"placehoder_confirm_02"                     : "Bạn vui lòng chỉ đến trước khung giờ hẹn tối đa 15 phút. Cám ơn bạn đã dùng phương pháp đặt hẹn này.",
+		"placehoder_fail"                           : "Đặt chỗ thất bại. Vui lòng kiểm trả lại",
+		"quantity_peple"                            : "Số lượng người",
+		"quantity_room"                             : "Số phòng mong muốn",
+		"quantity_adult"                            : "Số lượng người lớn",
+		"quantity_children"                         : "Số lượng trẻ em",
+		"quantity_room_max"                         : "Số lượng phòng tối đa",
+		"quantity_day_max"                          : "Số ngày mong muốn",
+		"currency"                                  : "ĐV tiền tệ",
+		"resume"                                    : "Xác nhận thông tin",
+	  
+		"quantity"                                  : "Số khách",
+		"unit_price"                                : "Giá mỗi khách",
+		"amount"                                    : "Tổng tiền",
+	  
+	  
+		"content"                                   : "Nội dung",
+		"next_step"                                 : "Kiểm tra đặt chỗ",
+		"confirm"                                   : "Xác nhận",
+		"room_confirm"                              : "Đặt phòng",
+		"room_title"                                : "Danh sách phòng có sẵn dành cho ",
+		"place_title_s1"                            : "Đặt chỗ",
+		"place_title_from"                          : "Danh sách thời gian có thể đặt từ ",
+		"place_title_to"                            : " đến ",
+		"booking_result_1"                          : "Kết quả tìm kiếm dành cho ",
+		"booking_result_2"                          : " người, từ ",
+		"room_msg1"                                 : " người lớn và ",
+		"room_msg2"                                 : " trẻ em từ ",
+		"room_msg3"                                 : " đến ",
+		"option"                                    : "Loại phòng",
+		"room_price"                                : "Giá phòng",
+		"payment_mode"                              : "Hình thức thanh toán",
+		"asr_payment_1"                             : "Chuyển khoản",
+		"asr_payment_2"                             : "Thanh toán bằng tiền mặt tại chỗ",
+		"asr_payment_3"                             : "Thanh toán qua Paypal",
+		"signup_notify"                             : "Nhận thông báo",
+		"room_price_total"                          : "Tổng tiền",
+		"room_nb"                                   : "Số lượng phòng",
+	  
+		"suggest_quantity_people"                   : "ví dụ: 3",
+		"client_info"                               : "Danh sách khách hàng",
+		"address"                                   : "Địa điểm:",
+		"hotel_placeholder"                         : "(Ví dụ: 19/05/1989)",
+		"hotel_sold_out"                            : "Không còn phòng trống cho ngày này",
+		"plan_sold_out"                             : "Không còn chỗ trống cho lịch trình này",
+
+		"mat_slot"                                  : "Còn trống: ",
+		"mat_price"                                 : "Giá",
+		"slot_available"                            : "Còn lại ",
+		"slot_unit"                                 : "chỗ",
+		"per_client_label_info03"                   : "Ghi chú",
+		
+		"---NSO-----------------"                   : "----------------------------------------",
+		"Nso"										: {
+			"adult"                                 : "Người lớn",
+			"child"                                 : "Trẻ em",
+			"client_sex_0"                          : "Nữ",
+			"client_sex_1"                          : "Nam",
+			"client_sex_2"                          : "Ẩn danh",
+			"tab_order"                             : "Chi tiết đơn hàng",
+			"tab_client"                            : "Danh sách khách hàng",
+			"tab_client_complete"                   : "Mời nhập danh sách khách hàng",
+			"tab_client_name"                       : "Họ tên",
+			"tab_client_name_other"                 : "Tên gọi khác",
+			"tab_client_sex"                        : "Giới tính",
+			"tab_client_bday"                       : "Ngày sinh",
+			"tab_client_nationality"                : "Quốc tịch",
+			"tab_client_passport"                   : "Hộ chiếu",
+			"tab_client_file"                       : "Tài liệu",
+			"tab_client_action"                     : "Lựa chọn",
+			"tab_client_tel"                        : "Điện thoại",
+			"tab_client_email"                      : "Email",
+			"reset"                                 : "Đặt lại",
+			"tab_detail_action"                     : "Đặt lại",
+			"total_day"                             : "Tổng số ngày",
+			"message_client_form_error"             : "Vui lòng nhập thông tin khách hàng.",
+			"message_cmt_form_error"                : "Vui lòng nhập nội dung đặt chỗ.",
+			"message_date_form_error"               : "Vui lòng kiểm tra khoảng thời gian đã chọn",
+			"message_date_rang_error"               : "Để đặt chỗ quá 5 ngày vui lòng liên hệ DV CSKH.",
+			"client_info"                           : "Thông tin người đặt hàng",
+			"back"                                  : "Quay lại",
+			"next"                                  : "Tiếp theo",
+	  
+			"payment"                               : "Thông tin thanh toán",
+			"hotel_form1_header"                    : "Đặt phòng",
+			"stay"                                  : "Đặt phòng cho",
+			"night"                                 : " đêm",
+			"common_adult"                          : "Người lớn",
+			"hotel_form4_header"                    : "Thông tin liên hệ và thanh toán"
+		},
+
+		"---ASR-----------------"                   : "----------------------------------------",
+		"Asr"										: {
+			"form_step1"                   	        : "Đăng ký - 1/4 - Thông tin chuyến du lịch",
+			"form_step2"                   	        : "Đăng ký - 2/4 - Thông tin của bạn",
+			"form_step3"                   	        : "Đăng ký - 3/4 - Ước tính giá trị hợp đồng",
+			"form_step4"                   	        : "Đăng ký - 4/4 - Thông tin hành khách",
+	  
+			"departure"                    	        : "Nước khởi hành",
+			"arrival"                      	        : "Điểm đến",
+			"voyage_type"                  	        : "Loại hình",
+			"voyagiste"                    	        : "Nhà cung ứng dịch vụ",
+			"total_date"                   	        : "Số ngày",
+			"date_achat"                   	        : "Ngày đặt chuyến đi",
+			"date_begin"                   	        : "Ngày bắt đầu",
+			"date_end"                     	        : "Ngày kết thúc",
+
+			"finish"                       	        : "Xác nhận",
+			"detail"                       	        : "Chọn gói bảo hiểm",
+			"estimation_amount"            	        : "Tạm tính",
+			"info"                         	        : "Bạn đã lựa chọn ",
+			"code"                   	        	: "Đơn hàng số ",
+			"voyage"                 	        	: "Thông tin chuyến đi",
+			"client"                 	        	: "Thông tin liên hệ khách hàng",
+			"total_amount"              	    	: "Tổng giá trị:",
+			"reference"                    	        : "Mã số",
+			"confirm_title"                	        : "Tóm tắt đơn hàng",
+			"product"                      	        : "Sản phẩm",
+			"voyage_price"                 	        : "Tổng giá trị chuyến đi",
+			"is_assured"                   	        : "Được bảo hiểm",
+	  
+			"err_no_product"               	        : "Vui lòng lựa chọn sản phẩm.",
+			"err_no_payment_type"          	        : "Vui lòng lựa chọn hình thức thanh toán.",
+			"unitprice"                    	        : "Đơn giá"
+		},
+		
+		"---STATUS-----------------"                : "----------------------------------------",
+		"Status"									: {
+			"new"                                   : "Mới nhận",
+			"submitted"                             : "Đã gửi yêu cầu",
+			"waiting"                               : "Chờ xác nhận",
+			"refuse"                                : "Từ chối",
+			"accept"                                : "Chấp nhận",
+			"completed"                             : "Hoàn tất",
+			"cancel"                                : "Đã hủy",
+			"expired"                               : "Quá hạn",
+			"accept_stock"                          : "Chấp nhận (kiểm tra stock)"
+		}
+	},
+  
+	"---BOX_CHANGE_PROFILE--------------------"     : "----------------------------------------",
+	"BoxChangeProfile"								: {
+		"content_not_validate_condition"           	: "Vui lòng kiểm tra lại nội dung muốn cập nhật",
+		"cms_success"                      			: "Hồ sơ đã được cập nhật thành công",
+		"cms_error"                        			: "Thất bại , cập nhật hồ sơ không thành công, vui lòng thử lại",
+		"msg_notify_validate_user"                 	: "Vui lòng nhập tên đăng nhập muốn cập nhật",
+		"msg_notify_fullName_length"               	: "Họ và tên không dài quá 50 ký tự !",
+		"msg_notify_validate_fullName"             	: "Họ và tên không chứa số và các ký tự đặc biệt !",
+		"msg_notify_validate_birth_date"           	: "Vui lòng nhập ngày tháng năm sinh",
+		"msg_notify_validate_not_null"              : "Vui lòng nhập nội dung",
+		"msg_notify_validate_email"                	: "Vui lòng nhập email muốn cập nhật",
+		"msg_notify_check_email"                   	: "Email chưa hợp lệ !!! , vui lòng kiểm tra lại email",
+		"msg_notify_phone_number"                  	: "Vui lòng nhập số điện thoại muốn cập nhật",
+		"msg_notify_check_phone_number"            	: "Số điện thoại bắt buộc là kiểu số !",
+		"msg_notify_phoneNum_length"               	: "Số điện thoại không được nhập ít hơn 10 chữ số hoặc quá 20 chữ số !",
+		"msg_notify_validate_website"              	: "Vui lòng nhập website muốn cập nhật",
+		"msg_notify_validate_about"                	: "Vui lòng nhập nội dung cập nhật",
+		"cms_logout_success"                        : "Bạn đã đăng xuất thành công",
+		"cms_logout_error"                          : "Thất bại, vui lòng thực hiện lại đăng xuất!"
+	},
+	
+  
+	"---NOTIFY_CHANGE_PASSS_PROFILE-------------"	: "----------------------------------------",
+	"NotifyChangePassProfile"						: {
+		"cms_change_pwd_success"                    : "Thay đổi mật khẩu thành công",
+		"cms_change_pwd_error"                      : "Sai mật khẩu! Vui lòng nhập lại",
+	  
+		"cms_reset_pwd_success"                     : "Khởi tạo lại mật khẩu thành công",
+		"cms_reset_pwd_error"                       : "Thất bại, vui lòng thử lại quy trình tạo lại mật khẩu!",
+	  
+		"cms_social_network_success"                : "Cập nhật thông tin thành công",
+		"cms_social_network_fail"                   : "Thất bại, vui lòng kiểm tra lại!"
+	},
+  
+	"---FILE_NOT_FOUND--------------------"         : "----------------------------------------",
+	"FileNotFound"									: {
+		"Page_not_Found"                            : "Lỗi không tìm thấy trang",
+		"Sorry_words"                               : "Xin lỗi, trang bạn đang tìm kiếm không tồn tại",
+		"Way_back_home"                             : "Về trang chủ"
+	},
+  
+	"---SHARE--------------------------"            : "----------------------------------------",
+	"Share"											: {
+		"popup_title"                               : "Chia sẻ liên kết",
+		"copy_link_success"                         : "Sao chép liên kết thành công",
+		"copy_link_error"                           : "Sao chép liên kết thất bại, xin thử lại!"
+	},
+  
+	"---CHAT ROOM--------------------"              : "----------------------------------------",
+	"ChatRoom"										: {
+		"with"                                      : "Trò chuyện với",
+		"search"                                    : "Tìm kiếm...",
+		"view_attaches"                             : "Tệp đính kèm",
+		"add_new"                                   : "Thêm vào nhóm",
+		"remove"                                    : "Rời nhóm",
+		"block"                                     : "Chặn",
+		"textarea"                                  : "Nhập tin nhắn",
+		"attaches"                                  : "Nội dung đính kèm",
+		"shared_attaches"                           : "Tệp được chia sẻ",
+		"shared_photos"                             : "Ảnh được chia sẻ",
+		"is_active"                                 : "đang hoạt động",
+		"friends"                                   : "Bạn bè",
+		"new_group"                                 : "+ Tạo nhóm chat",
+		"new_member"                                : "+ Thêm thành viên",
+		"people"                                    : "Thành viên",
+		"groups"                                    : "Nhóm",
+		"colleagues"                                : "Đồng nghiệp",
+		"group_name"                                : "Tên nhóm",
+		"group_name_placeholder"                    : "Please give a fancy name",
+		"group_des"                                 : "Thông tin về nhóm",
+		"group_des_placeholder"                     : "",
+		"group_description"                         : "Mô tả nhóm của bạn",
+		"add_more"                                  : "Thêm thành viên mới",
+		"waiting_member"                            : "Danh sách thành viên đang chờ",
+		"confirm_add"                               : "Đồng ý",
+		"confirm_refuse"                            : "Từ chối",
+		"is_admin"                                  : "Quản trị viên",
+		"request_group"                             : "Xin vào nhóm"
+	},
+  
+	"---CANDIDATE JOB--------------------"          : "----------------------------------------",
+	"CandidateJob"									: {
+		"list_title"                                : "Danh sách ứng viên",
+		"update_price"                              : "Giá sẽ được chúng tôi cập nhật!",
+		"list_quant"                                : " ứng viên",
+		"list_sort"                                 : "Sắp xếp",
+		"list_sort_by_ord"                          : "Tất cả",
+		"list_sort_by_name"                         : "Tên",
+		"list_sort_by_price"                        : "Giá tiền",
+		"list_cat_job"                              : "Danh mục nghề nghiệp",
+		"list_cat_skill"                            : "Danh mục kỹ năng",
+		"list_partners"                             : "Danh mục cửa hàng",
+		"button_show_curriculum_vitae"              : "Xem Curriculum Vitae",
+		"list_cats_all"                             : "Tất cả",
+		"list_cats_filter"                          : "Lọc theo",
+		"list_cats_filter_range"                    : "Từ",
+		"list_not_found"                            : "Không tìm thấy bất kỳ ứng viên nào! Bạn vui lòng thay đổi yêu cầu tìm kiếm",
+		"list_recently_viewedl"                     : "Đã xem gần đây",
+		"list_recently_viewedl_not_found"           : "Bạn chưa xem ứng viên nào",
+	  
+		"notification_msgbox"                       : "Thông báo",
+		"notification_text"                         : "Ứng viên chỉ được xem bởi nhà tuyển dụng!!!"
+	},
+  
+	"---SHOPPING_CART--------------------"          : "----------------------------------------",
+	"ShoppingCart"									: {
+		"user"                                      : "Giỏ hàng",
+		"user_article"                              : "Sản phẩm trong giỏ hàng của bạn",
+		"item_name"                                 : "Sản phẩm",
+		"item_price"                                : "Giá tiền",
+		"item_quantity_01"                          : "Số lượng",
+		"item_quantity_02"                          : "SL",
+		"item_currency"                             : "Tiền tệ",
+		"item_unit"                                 : "Đơn vị",
+		"item_promo"                                : "Code khuyến mãi",
+		"item_promo_code"                           : "Nhập mã khuyến mãi",
+		"item_promo_btn"                            : "Kiểm tra",
+		"item_price_defaut"                         : "Giá gốc",
+		"item_promo_price"                          : "Khuyến mãi",
+		"item_price_total"                          : "Tổng giá tiền",
+		"item_continue"                             : "Tiếp tục mua sắm",
+		"item_pay"                                  : "Thanh toán",
+		"total"                                     : "Tổng cộng",
+		"article"                                   : "sản phẩm",
+		"soc"                                       : "Công ty",
+		"empty"                                     : "Giỏ hàng của bạn rỗng.",
+		"empty_text"                                : "Bạn chưa thêm gì vào giỏ hàng của bạn. Tiếp tục mua sắm để chúng tôi phục vụ bạn.",
+		"empty_link"                                : "Tiếp tục mua sắm"
+	},
+  
+	"---------CONFIRMATION--------"                 : "---------CONFIRMATION-------",
+	"Confirmation"									: {
+		"info_client"                               : "Thông tin khách hàng",
+		"info_email"                                : "Email : ",
+		"info_phone"                                : "Tel : ",
+		"info_addr"                                 : "Địa chỉ : ",
+		"info_mod_pay"                              : "Thanh toán: ",
+	  
+		"adresse_shipping"                          : "Nhà cung cấp",
+		"payment_cash"                              : "Tiền mặt khi nhận hàng",
+		"payment_transaction"                       : "Chuyển khoản",
+	  
+		"total"                                     : "Giá trị đơn hàng",
+		"order_detail"                              : "Chi tiết đơn hàng",
+		"order_detail_short"                        : "Chi tiết",
+	  
+		"order_code"                                : "Mã đơn hàng",
+		"order_date"                                : "Ngày đặt hàng",
+		"order_stat"                                : "Tình trạng",
+		"info_mod_ship"                             : "Phương thức giao hàng",
+		"order_partner"                             : "Công ty",
+	  
+		"order_note"                                : "#Chú ý",
+	  
+		"order_ship_information"                    : "Người nhận",
+		"order_ship_map"                            : "Chỉ đường",
+	  
+		"text01"                                    : "Xác nhận đơn hàng",
+	  
+		"item_continue"                             : "Tiếp tục mua sắm",
+		"download"                                  : "Tải về",
+		"order_cancel"                              : "Hủy đơn hàng",
+
+		"---------WEB----------------"				: "-----------------------------------------",
+		"Web"										: {
+			"index"                          		: "Xác nhận đơn hàng",
+			"number_commande"                       : "Đơn hàng số : ",
+			"date"                                  : "Ngày đặt hàng : ",
+			"text01"                                : "Chào bạn,",
+			"text02a"                               : "Cám ơn sự quan tâm của bạn đến cửa hàng ",
+			"text02b"                               : "của chúng tôi,",
+			
+			"text03"                                : "Chúng tôi sẽ gửi cho bạn email đến hòm thư ",
+			"text04"                                : "khi đơn hàng của bạn đã được chuyển đi. Ngày giao hàng dự kiến được trích dẫn bên dưới. Bạn có thể theo dõi tình trạng đơn hàng hoặc chỉnh sửa đơn hàng trong mục 'chỉnh sửa'.",
+			"image"                                 : "Hình ảnh",
+			"name_product"                          : "Tên sản phẩm",
+			"price"                                 : "Giá",
+			"quantity"                              : "Số lượng",
+			"subtotal"                              : "Tổng",
+			
+			"amount"                                : "Tổng",
+			"disc"                                  : "Giảm giá / chiết khấu",
+			"promo"                                 : "Khuyến mãi",
+			"ship"                                  : "Phí vận chuyển",
+			"total"                                 : "Tổng",
+			"tax"                                   : "Thuế",
+			
+			"inv_number"                            : "Hóa đơn số : ",
+			"modifier"                              : "Chỉnh sửa",
+			"continue_shopping"                                   : "Tiếp tục mua sắm",
+			"delivery"                              : "Giao hàng",
+			"delivery_mode"                         : "Phương thức giao hàng",
+			"delivery_date"                         : "Ngày giao hàng",
+			"text05"                                : "Đơn hàng được giao đến : ",
+			"text06"                                : "Bạn muốn chỉnh sửa đơn hàng? tìm hiểu trang 'trợ giúp' để biết thêm thông tin.",
+			"text07"                                : "Hẹn gặp lại bạn!",
+			"text08"                                : "Kiểm tra lại đơn hàng cũng như địa chỉ giao hàng!",
+			"payement"                              : "Thanh toán",
+			
+			"stat_cancel"                           : "Đã hủy",
+			"stat_new"                              : "Đang xử lý"
+		}
+	},
+	
+	"---------CHECKOUT--------"                     : "---------CHECKOUT-------",
+	"CheckOut"										: {
+		"index"                              		: "Kiểm tra",
+		"next_finalisation"                         : "Thanh toán",
+
+		"Inv"										: {
+			"index"                                 : "Thông tin của bạn",
+			"per_cfgVal02"                          : "Chức danh",
+			"per_cfgVal02_01"                       : "Ông",
+			"per_cfgVal02_02"                       : "Bà",
+			"per_name"                              : "Họ và tên",
+			"per_mail"                              : "Email",
+			"per_tel"                               : "Số điện thoại",
+			"per_addr"                              : "Địa chỉ",
+			"per_addrCode"                          : "Mã bưu chính",
+			"per_city"                              : "Thành phố",
+			"per_depart"                            : "Tỉnh",
+			"per_country"                           : "Quốc gia",
+			"per_note"                              : "Ghi chú giao hàng"
+		},
+	  
+		"not_login"                                 : "Bạn chưa có tài khoản?",
+		"new_register"                              : "Đăng nhập hoặc đăng ký để tiếp tục mua sắm!",
+		"new_register_yes"                          : "Tạo tài khoản",
+		"new_register_ok"                           : "Tạo",
+		"new_register_login"                        : "Đăng nhập",
+		"new_register_no_login"                     : "Bỏ qua đăng nhập",
+		"new_register_no"                           : "Bỏ qua",
+		"form_new_register"                         : "Thông tin tài khoản",
+		
+		"Order"										: {
+			"index"                                 : "Đơn hàng",
+			"name_company" 	                        : "Cửa hàng : ",
+			"image"        	                        : "Hình ảnh",
+			"name_product" 	                        : "Tên sản phẩm",
+			"price"        	                        : "Giá",
+			"quantity"     	                        : "Số lượng",
+			"subtotal"     	                        : "Tổng",
+			"amount"       	                        : "Tổng",
+			"disc"         	                        : "Giảm giá/ chiết khấu",
+			"promo"        	                        : "Khuyến mại",
+			"ship"         	                        : "Phí vận chuyển",
+			"total"        	                        : "Tổng cuối",
+			"tax"          	                        : "Thuế",
+			"note"         	                        : "Ghi chú",
+		  
+			"shipping"     	                        : "Phương thức lấy hàng",
+			"shipping_free"	                        : "Lấy tại cửa hàng",
+			"shipping_home"	                        : "Giao tại nhà",
+		  
+			"notes"        	                        : "Ghi chú",
+			"notes_text"   	                        : "Ghi chú thêm về đơn hàng, thông tin thêm về địa chỉ giao hàng...",
+			"send_succes"  	                        : "Bạn đã đặt hàng thành công,bạn sẽ nhận được email xác nhận ",
+			"send_fail"    	                        : "Bạn đã đặt hàng không thành công,vui lòng thử lại "
+		}
+	},
+  
+	"---CMS-------------------------"               : "----------------------------------------",
+	"website_name"                              	: "ZenZobs",
+	"follow_us"                                 	: "Theo dõi chúng tôi tại:",
+	"social_facebook_link"                      	: "Theo dõi chúng tôi tại:",
+  
+  
+	"---OW POPUP-------------------------"      	: "----------------------------------------",
+	"OfferWork"										: {
+		"popup_title"                               : "Chi tiết công việc",
+	  
+		"form_addr"                                 : "Địa chỉ làm việc",
+		"form_typ"                                  : "Hình thức",
+		"form_typ_hour"                             : "Theo giờ",
+		"form_typ_todo_list"                        : "Theo danh sách công việc",
+		"form_todo_list"                            : "Danh sách công việc",
+		"form_time_list"                            : "Thời gian làm việc",
+		"form_create_todo"                          : "Thêm công việc",
+		"form_create_time"                          : "Thêm thời điểm",
+		"form_start_day"                            : "Ngày bắt đầu",
+		"form_end_day"                              : "Ngày kết thúc",
+		"form_exp_date"                             : "Hạn nộp hồ sơ",
+		"form_status"                               : "Đối tượng",
+		"form_status_priv"                          : "Chỉ mình tôi",
+		"form_status_publ"                          : "Công khai",
+		"form_req_age"                              : "Độ tuổi",
+		"form_req_from"                             : "Từ",
+		"form_req_to"                               : "Đến",
+		"form_req_sex"                              : "Giới tính",
+		"form_req_male"                             : "Nam",
+		"form_req_female"                           : "Nữ",
+		"form_salary"                               : "Mức lương",
+		"form_max"                                  : "Tối đa",
+		"form_file_avt"                             : "Ảnh đại diện",
+	  
+		"form_submit_button"                        : "Lưu thay đổi",
+	  
+		"form_additional_sex"                       : "Người cần liên lạc",
+		"form_additional_name"                      : "Tên",
+		"form_additional_email"                     : "Email liên lạc",
+		"form_additional_tel"                       : "Số điện thoại liên lạc",
+	  
+		"form_lang"                                 : "Ngôn ngữ",
+		"form_lang_vn"                              : "Tiếng Việt",
+		"form_lang_en"                              : "Tiếng Anh",
+		"form_lang_fr"                              : "Tiếng Pháp",
+		"form_lang_jp"                              : "Tiếng Nhật",
+		"form_lang_kr"                              : "Tiếng Hàn",
+		"form_lang_ch"                              : "Tiếng Trung"
+	},
+  
+  
+	"---CMS FOOTER-------------------------"        : "----------------------------------------",
+	"Footer"										: {
+		"menu_new_job_email"                        : "Email của bạn",
+		"menu_new_job_cat"                          : "Ngành nghề",
+		"new_jobs_notification"                     : "Nhận thông tin về công việc mới nhất!",
+		"subscribe_jobs_notification"               : "Đăng kí và nhận toàn bộ thông tin công việc."
+	},
+  
+	"---NSO OFFERT WORK--------------------"                  : "----------------------------------------",
+	"NsoOfferWork"									: {
+		"work_list_active_offer_title"                  : "Việc làm Đang tuyển",
+		"work_list_waiting_offer_title"                 : "Việc làm Chờ đăng tuyển",
+		"work_list_expired_offer_title"                 : "Việc làm Hết hạn",
+		"work_list_paused_offer_title"                  : "Việc làm Tạm dừng đăng",
+	  
+		"work_active_offer"                             : "Đang tuyển",
+		"work_waiting_offer"                            : "Chờ đăng tuyển",
+		"work_expired_offer"                            : "Hết hạn",
+		"work_paused_offer"                             : "Tạm dừng đăng",
+	  
+		"work_tab_basic_title"                          : "Thông tin cơ bản",
+		"work_tab_require_title"                        : "Trình độ và Yêu cầu khác",
+		"work_tab_additional_title"                     : "Thông tin liên hệ",
+		"work_tab_cv_title"                             : "Danh sách CV phù hợp",
+	  
+		"work_tab_basic_ref"                            : "Mã công việc",
+		"work_tab_basic_tit"                            : "Tiêu đề",
+		"work_tab_basic_comp"                           : "Tên công ty",
+		"work_tab_basic_pos"                            : "Vị trí tuyển dụng",
+		"work_tab_basic_prof"                           : "Ngành nghề",
+		"work_tab_basic_typ_collab"                     : "Cộng tác viên",
+		"work_tab_basic_typ_temp"                       : "Thời vụ",
+		"work_tab_basic_typ_intern"                     : "Thực tập",
+		"work_tab_basic_coor"                           : "Tạo độ",
+		"work_tab_basic_stat"                           : "Trạng thái đăng tuyển",
+		"work_tab_basic_desc"                           : "Mô tả công việc",
+		"work_tab_basic_req"                            : "Yêu cầu công việc",
+		"work_tab_basic_lang_display"                   : "Ngôn ngữ hiển thị mặc định",
+		"btn_work_transl"                               : "Thêm ngôn ngữ dịch thuật khác",
+		"work_tab_basic_free_time"                      : "Thời gian rảnh",
+	  
+		"work_tab_require_add"                          : "Thêm",
+		"work_tab_require_hard"                         : "Kĩ năng cứng",
+		"work_tab_require_soft"                         : "Kĩ năng mềm",
+		"work_tab_require_lang"                         : "Ngoại ngữ",
+		"work_tab_require_lev"                          : "Trình độ",
+		"work_tab_require_lev_post"                     : "Sau đại học",
+		"work_tab_require_lev_uni"                      : "Đại học",
+		"work_tab_require_lev_college"                  : "Cao đẳng",
+		"work_tab_require_lev_interm"                   : "Trung cấp",
+		"work_tab_require_lev_high"                     : "Trung học",
+		"work_tab_require_lev_noreq"                    : "Không yêu cầu bằng cấp",
+		"work_tab_require_lev_other"                    : "Khác",
+		"work_tab_require_exp"                          : "Kinh nghiệm",
+		"work_tab_require_exp_01"                       : "Dưới 1 năm kinh nghiệm",
+		"work_tab_require_exp_02"                       : "Từ 1 tới 2 năm kinh nghiệm",
+		"work_tab_require_exp_03"                       : "Hơn 3 năm kinh nghiệm",
+		"work_tab_require_statis"                       : "Độ thông thạo tối thiểu (0-100)",
+	  
+		"work_drop_file"                                : "Chọn CV của bạn",
+		"work_form_candidate"                           : "Mẫu ứng tuyển",
+	  
+		"work_tab_cv_code"                              : "Mã Cv",
+		"work_tab_cv_name"                              : "Tên ứng viên",
+		"work_tab_cv_status"                            : "Độ phù hợp",
+		"work_lat"                                      : "Kinh độ",
+		"work_lng"                                      : "Vĩ độ",
+		"create_succes"                                 : "Bạn đã tạo thành công một tin tuyển dụng,cảm ơn bạn đã sử dụng dịch vụ của chúng tôi,chúng tôi sẽ xét duyệt sớm nhất có thể",
+	  
+		"msg_message_get_confirm"                                 : "Nội dung văn bản này sẽ được sử dụng, bạn có đồng ý?",
+		"msg_message_discard_confirm"                             : "Bạn muốn hủy bỏ?"
+	},
+	
+	"---END-------------------------"                         : "----------------------------------------"
+  }

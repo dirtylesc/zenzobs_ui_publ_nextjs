@@ -1,0 +1,50 @@
+$pdVertDef : 10px;
+$pdHoriDef : 30px;
+
+.menu_list__title {
+  padding: ($pdVertDef + 2px) $pdHoriDef;
+  letter-spacing: .05em;
+  pointer-events: none;
+  cursor: default;
+  text-transform: uppercase;
+  color: #8391a2;
+  font-weight: 700;
+}
+
+.menu_list_item {
+  color: #8391a2;
+  display: block;
+  padding: ($pdVertDef + 5px) $pdHoriDef;
+  font-size: 0.9375rem;
+  position: relative;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  cursor: pointer;
+
+  &_child {
+    .menu_list_item__title {
+      padding: $pdVertDef $pdHoriDef;
+    }
+  }
+}
+
+.menu_list_item__icon {
+  display: inline-block;
+  line-height: 1.0625rem;
+  font-size: 1.1rem;
+  vertical-align: middle;
+
+  svg {
+    width: 17px;
+    height: 17px;
+  }
+}
+
+.menu_list_item__right_icon {
+  top: 0.75rem;
+  transition: transform 0.15s;
+  position: absolute;
+  right: 20px;
+  display: inline-block;
+  transform: translate(0, 0);
+}

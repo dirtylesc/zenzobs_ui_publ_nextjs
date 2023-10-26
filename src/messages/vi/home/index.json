@@ -1,0 +1,19 @@
+{
+  "header_slogan_01"							: "Rất nhiều công việc thú vị đang chờ bạn",
+  "header_slogan_02"							: "Bạn sẽ tìm thấy điều mong muốn với",
+  "header_slogan_03"							: "Với tuổi trẻ, chúng ta không ngại ngần gió sương để tích lũy kinh nghiệm làm hành trang cho một tương lai vững chắc.",
+  "header_project_name"							: "ZenZobs",
+  
+  "header_menu_dashboard"                       : "Tài khoản của tôi",
+
+  "category"                                    : "Ngành nghề tuyển dụng",
+  "category_position_available"                 : "công việc có sẵn",
+  "category_all"                                : "Xem toàn bộ",
+  "product"                                     : "Sản phẩm",
+  "product_all"                                 : "Xem tất cả",
+  "job"                                         : "Việc tìm người",
+  "candidate"                                   : "Ứng viên",
+  "blog"                                        : "Bạn cần biết",
+  "blog_all"                                    : "Xem thêm",
+  "view_profile"                                : "Xem hồ sơ"
+}

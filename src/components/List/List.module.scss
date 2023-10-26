@@ -1,0 +1,37 @@
+.wrapper{
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+
+    .content{
+        
+    }
+}
+
+.window_func{
+    width: 100%;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.item_wrapper {
+    box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, .03);
+    border: 1px solid #f6f6f6;
+    border-radius: 0.25rem;
+    margin-bottom: 10px;
+    display: inline-block;
+    padding: 8px 5px 8px 5px;
+    width: 100%;
+
+    .function {
+        display: flex;
+        width: 100%;
+
+        .title{
+            font-size: 17px;
+            font-weight: 600;
+        }
+    }
+}
